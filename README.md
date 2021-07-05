@@ -1,3 +1,11 @@
+Neste curso você aprendeu os seguintes conceitos sobre componentes:
+
+Criar
+Exportar
+Importar
+Estilizar
+Organizar
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
